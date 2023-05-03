@@ -7,3 +7,6 @@ const items = [
 ];
 
 export default items;
+//proper code essentially done like micheal did his 
+
+
